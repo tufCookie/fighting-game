@@ -1,7 +1,8 @@
 # fighting-game
+This code was created by following this tutorial:
 https://www.youtube.com/watch?v=vyqbNFMDRGQ
 
-TODO:
+Future updates:
 * Add more fighting moves (eg dash attack)
 * Bound players to fighting arena
 * Add more charactarers
